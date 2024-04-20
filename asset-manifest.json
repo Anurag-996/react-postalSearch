@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-postal_search/static/css/main.43cf72ea.css",
+    "main.js": "/react-postal_search/static/js/main.205fd420.js",
+    "index.html": "/react-postal_search/index.html",
+    "main.43cf72ea.css.map": "/react-postal_search/static/css/main.43cf72ea.css.map",
+    "main.205fd420.js.map": "/react-postal_search/static/js/main.205fd420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cf72ea.css",
+    "static/js/main.205fd420.js"
+  ]
+}
